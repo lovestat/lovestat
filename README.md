@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=songshangchen6.songshangchen6)
+
+
 [![Shangchen's github stats](https://github-readme-stats.vercel.app/api?username=songshangchen6&count_private=true&theme=buefy&show_icons=true)](https://shangchen.org)
 
 
