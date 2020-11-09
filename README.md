@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning R programming.
+- :package: Have a try for my R package seecolor.
 
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=songshangchen6.songshangchen6)
