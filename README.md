@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning the R programming.
 - :package: Have a try for my R package seecolor.
-- 🤔 I’m looking for help with playing the :piano:
+- 🤔 I’m looking for help with playing the :musical_keyboard:
 
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=songshangchen6.songshangchen6)
