@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning the R programming.
 - :package: Have a try for my R package seecolor.
 - 🤔 I’m looking for help with large-scale matrix regression problem.
+- ⚡ I’m trying to make delicious Chinese Baozi!
 
 
 
