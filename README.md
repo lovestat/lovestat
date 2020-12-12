@@ -1,6 +1,6 @@
 ### Hi there 👋  
  
-- 🌱 I’m currently learning the R programming. 
+- 🌱 I’m currently learning the R programming.  
 - :package: Have a try for my R package seecolor. 
   
   
