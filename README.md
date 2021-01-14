@@ -1,7 +1,7 @@
 ### Hi there 👋  
  
 - 🌱 I’m currently learning the R programming.    
-- :package: Have a try for my R package seecolor.      
+- :package: Have a try for my R package seecolor.        
   
     
        
@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+ 
 -->
